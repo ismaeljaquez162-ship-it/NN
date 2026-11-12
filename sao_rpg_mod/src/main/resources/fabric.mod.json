@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "sao_rpg",
+  "version": "${version}",
+  "name": "SAO RPG",
+  "description": "Sistema de niveles, HUD de vida/energia/XP estilo Sword Art Online y clases por maestria de equipamiento estilo Albion Online.",
+  "authors": ["Ismael"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.saorpg.SaoRpgMod"],
+    "client": ["com.saorpg.client.SaoRpgClient"]
+  },
+  "mixins": ["sao_rpg.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

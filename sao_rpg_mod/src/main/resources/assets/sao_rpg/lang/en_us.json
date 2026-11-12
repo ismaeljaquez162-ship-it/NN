@@ -1,0 +1,20 @@
+{
+  "key.sao_rpg.toggle_hud": "Toggle HUD (SAO bars / hearts)",
+  "key.sao_rpg.open_screen": "Open mastery board",
+  "screen.sao_rpg.mastery": "Mastery Board",
+  "message.sao_rpg.hud_sao": "HUD: SAO bars",
+  "message.sao_rpg.hud_hearts": "HUD: normal hearts",
+  "message.sao_rpg.no_energy": "Not enough energy!",
+  "message.sao_rpg.mastery_up": "%s mastery: level %s",
+  "branch.sao_rpg.sword": "Sword",
+  "branch.sao_rpg.axe": "Axe",
+  "branch.sao_rpg.bow": "Bow",
+  "branch.sao_rpg.crossbow": "Crossbow",
+  "branch.sao_rpg.trident": "Trident",
+  "branch.sao_rpg.mace": "Mace",
+  "branch.sao_rpg.light_armor": "Light armor",
+  "branch.sao_rpg.medium_armor": "Medium armor",
+  "branch.sao_rpg.heavy_armor": "Heavy armor",
+  "key.category.sao_rpg.main": "SAO RPG",
+  "branch.sao_rpg.spear": "Spear"
+}

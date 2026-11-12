@@ -1,0 +1,20 @@
+{
+  "key.sao_rpg.toggle_hud": "Cambiar HUD (barras SAO / corazones)",
+  "key.sao_rpg.open_screen": "Abrir tablero de maestrías",
+  "screen.sao_rpg.mastery": "Tablero de maestrías",
+  "message.sao_rpg.hud_sao": "HUD: barras SAO",
+  "message.sao_rpg.hud_hearts": "HUD: corazones normales",
+  "message.sao_rpg.no_energy": "¡Sin energía!",
+  "message.sao_rpg.mastery_up": "Maestría de %s: nivel %s",
+  "branch.sao_rpg.sword": "Espada",
+  "branch.sao_rpg.axe": "Hacha",
+  "branch.sao_rpg.bow": "Arco",
+  "branch.sao_rpg.crossbow": "Ballesta",
+  "branch.sao_rpg.trident": "Tridente",
+  "branch.sao_rpg.mace": "Maza",
+  "branch.sao_rpg.light_armor": "Armadura ligera",
+  "branch.sao_rpg.medium_armor": "Armadura media",
+  "branch.sao_rpg.heavy_armor": "Armadura pesada",
+  "key.category.sao_rpg.main": "SAO RPG",
+  "branch.sao_rpg.spear": "Lanza"
+}
